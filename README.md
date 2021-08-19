@@ -1,5 +1,5 @@
 
-﻿# Samrt-Glove-
+﻿# Smart-Glove-
  
 ![s1](https://user-images.githubusercontent.com/80456446/124141281-9465b400-da89-11eb-82e9-ee415f011d57.jpg)
 ![s2](https://user-images.githubusercontent.com/80456446/124142300-6765d100-da8a-11eb-80c1-2dcba514efcd.jpg)
